@@ -4,7 +4,6 @@ let age = 18
 // console.log(`Hi, my name is ${name} and I am ${age} years old.`);
 // console.log(name.length);
 
-
 // Another way to declare string
 let myName = new String("Fahat")
 // console.log(myName[0]);
