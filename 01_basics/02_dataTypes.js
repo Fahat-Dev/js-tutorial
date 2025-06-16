@@ -10,10 +10,11 @@ let city; // undefined (value is not assigned yet)
 let obj = null; //object (standalone value)
 // console.log(typeof(obj)) 
 
-// symbol => unique
+// symbol => unique (Refer to 11th file - objects)
 const idOne = Symbol('123')
 const idTwo = Symbol('123') //symbol
 // console.log(idOne === idTwo); //false
+
 
 // BigInt
 const bigInt = 1234839398n //bigint
